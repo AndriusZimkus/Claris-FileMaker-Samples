@@ -1,0 +1,15 @@
+﻿Timestamp	Filename	Error	Message
+2025-09-09 19:53:28.328 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-09 19:53:28.344 +0300	LanguageLearning.fmp12	0	Import of tables from clipboard started
+2025-09-09 19:53:28.344 +0300	LanguageLearning.fmp12	0	Table “LanguageWords” imported as “LanguageWords 2” since a table or table occurrence named “LanguageWords” already exists.
+2025-09-09 19:53:28.348 +0300	LanguageWords 2	0	fields imported : 5
+2025-09-09 19:53:28.348 +0300	LanguageLearning.fmp12	0	tables imported : 1
+2025-09-09 19:53:28.353 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-09 19:53:43.412 +0300	LanguageLearning.fmp12	0	Import of fields from clipboard started
+2025-09-09 19:53:43.416 +0300	LanguageWords	0	fields imported : 5
+2025-09-09 19:53:43.416 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-09 19:54:54.062 +0300	LanguageLearning.fmp12	0	Import of fields from clipboard started
+2025-09-09 19:54:54.066 +0300	Words	0	fields imported : 4
+2025-09-09 19:54:54.066 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-09 19:56:42.170 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-09 19:56:42.170 +0300	LanguageLearning.fmp12	0	==================================================================
