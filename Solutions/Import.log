@@ -94,3 +94,11 @@
 2025-09-10 15:22:46.360 +0300	LanguageLearning.fmp12	0	Import of themes from file “THX Mobile Themes.fmp12” started
 2025-09-10 15:22:46.492 +0300	LanguageLearning.fmp12	0	themes imported : 5
 2025-09-10 15:22:46.494 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-10 16:05:58.539 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-10 16:05:58.567 +0300	LanguageLearning.fmp12	0	Import of tables from clipboard started
+2025-09-10 16:05:58.568 +0300	LanguageLearning.fmp12	0	Table “T103_WordEntries” imported as “T103_WordEntries 2” since a table or table occurrence named “T103_WordEntries” already exists.
+2025-09-10 16:05:58.569 +0300	T103_WordEntries 2	0	fields imported : 8
+2025-09-10 16:05:58.573 +0300	LanguageLearning.fmp12	0	tables imported : 1
+2025-09-10 16:05:58.573 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-10 16:07:24.847 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-10 16:07:24.847 +0300	LanguageLearning.fmp12	0	==================================================================
