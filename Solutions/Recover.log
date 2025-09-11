@@ -7,3 +7,7 @@
 2025-09-10 11:32:28.273 +0300	LanguageLearning.fmp12	8432	Page 259 marked free but not in free list
 2025-09-10 11:32:28.274 +0300	LanguageLearning.fmp12	0	Reset maximum block sequence number to 209421
 2025-09-10 11:32:28.275 +0300	LanguageLearning.fmp12	0	*** Completed consistency check, checked 259 block(s)
+2025-09-11 19:02:14.383 +0300	LanguageLearning.fmp12	0	*** Started consistency check of improperly closed file, total of 652 block(s) to check
+2025-09-11 19:02:14.387 +0300	LanguageLearning.fmp12	8432	Page 652 marked free but not in free list
+2025-09-11 19:02:14.388 +0300	LanguageLearning.fmp12	0	Reset maximum block sequence number to 267355
+2025-09-11 19:02:14.392 +0300	LanguageLearning.fmp12	0	*** Completed consistency check, checked 652 block(s)
