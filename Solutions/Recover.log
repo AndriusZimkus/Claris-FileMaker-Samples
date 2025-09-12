@@ -1,5 +1,0 @@
-﻿Timestamp	Filename	Error	Message
-2025-09-12 09:43:52.383 +0300	LanguageLearning.fmp12	0	*** Started consistency check of improperly closed file, total of 674 block(s) to check
-2025-09-12 09:43:52.400 +0300	LanguageLearning.fmp12	8432	Page 674 marked free but not in free list
-2025-09-12 09:43:52.401 +0300	LanguageLearning.fmp12	0	Reset maximum block sequence number to 373678
-2025-09-12 09:43:52.402 +0300	LanguageLearning.fmp12	0	*** Completed consistency check, checked 674 block(s)
