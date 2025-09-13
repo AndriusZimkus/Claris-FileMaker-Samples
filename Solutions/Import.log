@@ -23,3 +23,47 @@
 2025-09-13 10:25:55.687 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
 2025-09-13 10:25:55.689 +0300	Materials - Open Material	0	script steps imported : 1
 2025-09-13 10:25:55.689 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 12:20:40.797 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-13 12:20:40.813 +0300	LanguageLearning.fmp12	0	Import of tables from clipboard started
+2025-09-13 12:20:40.813 +0300	LanguageLearning.fmp12	0	Table “T108_MaterialParts” imported as “T108_MaterialParts 2” since a table or table occurrence named “T108_MaterialParts” already exists.
+2025-09-13 12:20:40.813 +0300	T108_MaterialParts 2	0	fields imported : 8
+2025-09-13 12:20:40.813 +0300	LanguageLearning.fmp12	0	tables imported : 1
+2025-09-13 12:20:40.813 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 12:21:27.068 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-13 12:21:27.068 +0300	LanguageLearning.fmp12	0	==================================================================
+2025-09-13 12:22:58.000 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-13 12:22:58.009 +0300	Settings - Go To Settings	0	script steps imported : 14
+2025-09-13 12:22:58.009 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:22:31.429 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-13 15:22:31.436 +0300	Materials - Add To Config	0	script steps imported : 5
+2025-09-13 15:22:31.439 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:25:42.487 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-13 15:25:42.491 +0300	Materials - Add To Config	0	script steps imported : 1
+2025-09-13 15:25:42.491 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:25:45.748 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-13 15:25:45.753 +0300	Materials - Add To Config	0	script steps imported : 3
+2025-09-13 15:25:45.753 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:27:54.746 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-13 15:27:54.746 +0300	Materials - Add To Config	0	script steps imported : 1
+2025-09-13 15:27:54.751 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:50:41.558 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-13 15:50:41.571 +0300	LanguageLearning.fmp12	0	Import of fields from clipboard started
+2025-09-13 15:50:41.574 +0300	T103_EntryItems	0	fields imported : 1
+2025-09-13 15:50:41.576 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 15:50:43.270 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-13 15:50:43.271 +0300	LanguageLearning.fmp12	0	==================================================================
+2025-09-13 16:02:46.770 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-13 16:02:46.786 +0300	LanguageLearning.fmp12	0	Import of tables from clipboard started
+2025-09-13 16:02:46.788 +0300	LanguageLearning.fmp12	0	Table “T107_Materials” imported as “T107_Materials 2” since a table or table occurrence named “T107_Materials” already exists.
+2025-09-13 16:02:46.797 +0300	T107_Materials 2	0	fields imported : 15
+2025-09-13 16:02:46.798 +0300	LanguageLearning.fmp12	0	tables imported : 1
+2025-09-13 16:02:46.799 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-13 16:05:03.569 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-13 16:05:03.570 +0300	LanguageLearning.fmp12	0	==================================================================
+2025-09-13 16:07:27.103 +0300	LanguageLearning.fmp12	0	Import of scripts from clipboard started
+2025-09-13 16:07:27.104 +0300	LanguageLearning.fmp12	0	Script “Languages - Add Material” imported as “Languages - Add Material 2” since a script named “Languages - Add Material” already exists.
+2025-09-13 16:07:27.105 +0300	LanguageLearning.fmp12	0	Script “Languages - Go To Material” imported as “Languages - Go To Material 2” since a script named “Languages - Go To Material” already exists.
+2025-09-13 16:07:27.107 +0300	Languages - Add Material 2	0	script steps imported : 21
+2025-09-13 16:07:27.108 +0300	Languages - Go To Material 2	0	script steps imported : 25
+2025-09-13 16:07:27.110 +0300	LanguageLearning.fmp12	0	scripts imported : 2
+2025-09-13 16:07:27.110 +0300	LanguageLearning.fmp12	0	Import completed
