@@ -30,3 +30,11 @@
 2025-09-17 19:20:24.372 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import of script steps from clipboard started
 2025-09-17 19:20:24.373 +0300	Throw Coin	0	script steps imported : 1
 2025-09-17 19:20:24.374 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import completed
+2025-09-21 15:40:05.148 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import of scripts from clipboard started
+2025-09-21 15:40:05.150 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Script “Throw Coin - Monte Carlo” imported as “Throw Coin - Monte Carlo 2” since a script named “Throw Coin - Monte Carlo” already exists.
+2025-09-21 15:40:05.152 +0300	Throw Coin - Monte Carlo 2	0	script steps imported : 50
+2025-09-21 15:40:05.154 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	scripts imported : 1
+2025-09-21 15:40:05.154 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import completed
+2025-09-21 15:41:34.158 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import of script steps from clipboard started
+2025-09-21 15:41:34.161 +0300	HyperLogLog - Hit Counter Estimation - Monte Carlo 2	0	script steps imported : 5
+2025-09-21 15:41:34.162 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Import completed

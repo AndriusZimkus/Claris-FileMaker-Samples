@@ -1,0 +1,5 @@
+﻿Timestamp	Filename	Error	Message
+2025-09-21 15:40:18.400 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	*** Started consistency check of improperly closed file, total of 511 block(s) to check
+2025-09-21 15:40:18.410 +0300	Random - Demo - Monte Carlo Simulation.fmp12	8432	Page 511 marked free but not in free list
+2025-09-21 15:40:18.411 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	Reset maximum block sequence number to 264060
+2025-09-21 15:40:18.412 +0300	Random - Demo - Monte Carlo Simulation.fmp12	0	*** Completed consistency check, checked 511 block(s)
