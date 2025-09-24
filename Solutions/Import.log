@@ -270,3 +270,24 @@
 2025-09-21 18:05:37.699 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
 2025-09-21 18:05:37.699 +0300	Utilities - Set Fields And Perform Script	0	script steps imported : 1
 2025-09-21 18:05:37.699 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 18:07:39.148 +0300	LanguageLearning.fmp12	0	Import operations started
+2025-09-24 18:07:39.167 +0300	LanguageLearning.fmp12	0	Import of fields from clipboard started
+2025-09-24 18:07:39.173 +0300	T105_GrammarConcepts	0	fields imported : 2
+2025-09-24 18:07:39.174 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 18:07:48.426 +0300	LanguageLearning.fmp12	0	Import operations committed
+2025-09-24 18:07:48.427 +0300	LanguageLearning.fmp12	0	==================================================================
+2025-09-24 18:16:30.292 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-24 18:16:30.295 +0300	Grammar Concept Selection - Finish	0	script steps imported : 2
+2025-09-24 18:16:30.296 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 18:35:48.579 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-24 18:35:48.580 +0300	Entries - Update Anki Card Info For Entry	0	script steps imported : 1
+2025-09-24 18:35:48.582 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 22:12:53.611 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-24 22:12:53.611 +0300	Languages - Open Current Study Materials	0	script steps imported : 1
+2025-09-24 22:12:53.611 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 22:13:09.751 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-24 22:13:09.756 +0300	Languages - Open Current Study Materials	0	script steps imported : 9
+2025-09-24 22:13:09.756 +0300	LanguageLearning.fmp12	0	Import completed
+2025-09-24 22:14:29.721 +0300	LanguageLearning.fmp12	0	Import of script steps from clipboard started
+2025-09-24 22:14:29.721 +0300	Languages - Open Current Study Materials	0	script steps imported : 1
+2025-09-24 22:14:29.731 +0300	LanguageLearning.fmp12	0	Import completed
